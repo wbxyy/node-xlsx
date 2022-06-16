@@ -1,0 +1,24 @@
+{
+  "name": "xlsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "axios": "^0.27.2",
+    "crypto": "^1.0.1",
+    "express": "^4.18.1",
+    "mammoth": "^1.4.21",
+    "moment": "^2.29.3",
+    "nanoid": "^3.3.4",
+    "node-xlsx": "^0.21.0",
+    "nodemon": "^2.0.16",
+    "textract": "^2.5.0"
+  }
+}
